@@ -1,0 +1,21 @@
+nav{
+    height: 100%;
+}
+
+.side-nav-button{
+    display:flex;
+    justify-content: center;
+    font-size: 2.2rem;
+    cursor: pointer;
+    border-radius: 30%;
+    transition: background-color 1030ms ease in;
+}
+
+.side-nav-button:hover{
+    background-color: rgb(255, 255, 255, 0.2);
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+ 
